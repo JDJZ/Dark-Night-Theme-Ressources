@@ -3434,6 +3434,20 @@ span {
     content: "No need to update this theme, it updates itself when you reload discord.";
 }
 
+.enabled {
+    display: block;
+    width: 100%;
+    margin-right: 5px;
+}
+
+.enabled:after {
+    display: block;
+    font-size: 15px;
+    height: 26px;
+    font-weight: 700;
+    color: #db5b29;
+}
+
 .descbutton {
     font-size: 14px;
     color: #000;
