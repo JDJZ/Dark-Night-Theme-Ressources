@@ -321,7 +321,7 @@
 
 .account .btn {
     background: transparent;
-    border: 0;
+    border: 10;
 }
 
 .account .btn-deafen,
